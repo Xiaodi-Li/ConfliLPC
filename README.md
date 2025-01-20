@@ -1,4 +1,4 @@
-# ConfliLPC: Logits and Parameter Calibration for Political Conflict Analysis in Continual Learning (PSBD 2024)
+# ConfliLPC: Logits and Parameter Calibration for Political Conflict Analysis in Continual Learning (Big Data 2024)
 
 This repository contains the essential code for the paper [ConfliLPC: Logits and Parameter Calibration for Political Conflict Analysis in Continual Learning (PSBD 2024)].
 
